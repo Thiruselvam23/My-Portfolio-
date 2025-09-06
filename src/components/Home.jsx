@@ -7,7 +7,7 @@ function Home() {
         <div>
             <br />
             <h1>Thiruselvam P</h1>
-            <img className='Profile-Photo' src="./src/images/Profile-photo.jpg" alt="Profile-photo"/>
+            <img className='Profile-Photo' src="./public/Profile-photo.jpg" alt="Profile-photo"/>
             <p>Third-year B.Tech student in Artificial Intelligence and Data Science at Shiv Nadar University, Chennai. Strong
                 foundation in Java and backend development with Spring Boot, with additional experience in Python, C++, and
                 SQL/NoSQL databases. Passionate about Data Structures and Algorithms (100+ problems solved on LeetCode)
